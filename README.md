@@ -10,7 +10,7 @@ tonyspiro@thespyrock.com
 
 About
 ------
-This is a blackjack program built using HTML5, JQuery and CSS.  It's just a starting point.  Maybe someone would like to branch it off and add betting ability, splitting and double downs.
+This is a blackjack program built using HTML5, JQuery and CSS.  It's just a starting point.
 
 Copyright (C) 2013  Tony Spiro
 
