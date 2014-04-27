@@ -6,7 +6,7 @@ View a demo <a href='http://dev.tonyspiro.com/blackjack'>here</a>.
 Author
 ------
 Tony Spiro
-tonyspiro@thespyrock.com
+tspiro@tonyspiro.com
 
 About
 ------
