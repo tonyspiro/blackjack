@@ -1,4 +1,4 @@
-Blackjack
+Blackjack (just for fun)
 =============
 
 View a demo <a href='http://dev.tonyspiro.com/blackjack'>here</a>.
