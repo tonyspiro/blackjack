@@ -1,7 +1,7 @@
 Blackjack
 =============
 
-This was something that was built just to see if I could.  Bordom + Coffee + JQuery = JQuery Blackjack game.
+This was something that was built just to see if I could.  Boredom + Coffee + JQuery = JQuery Blackjack game.
 
 View a demo <a href='http://dev.tonyspiro.com/blackjack'>here</a>.
 
