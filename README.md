@@ -12,7 +12,7 @@ tspiro@tonyspiro.com
 
 About
 ------
-This is a blackjack program built using HTML5, JQuery and CSS.  It's just a starting point.
+This is a blackjack program built using HTML5, JQuery and CSS.  It's just a starting point, please fork and make it better!
 
 Copyright (C) 2013  Tony Spiro
 
