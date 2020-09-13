@@ -3,8 +3,6 @@ Blackjack
 
 This was something that was built just to see if I could.  Boredom + Coffee + JQuery = JQuery Blackjack game.
 
-View a demo <a href='http://blackjack.cosmicapp.co'>here</a>.
-
 Author
 ------
 Tony Spiro
